@@ -1,20 +1,19 @@
-Helicopter bot
+Helicopter bot - Pliok
 ~~~~~~~~~~~~~~~
-
-1. Parts
-
-  - make the connection with a controller via idk (will test it through simple motots)
-  - 
-  
   
   Prouchvane
   ~~~~~~~~~~~
-  
+
+za 12.10
   kakvo drugo e napraveno, kak
   po kakyv nachin bihme mogli da go postignem
   da go napravq po-podrobno - cherterjite / kak da izgeljda 
   da vidq kak da go upravlqvam 
   
   resources:
-  https://www.youtube.com/watch?v=p2c6Z8aj2U8
+
+  https://www.youtube.com/watch?v=p2c6Z8aj2U8 
+  https://www.youtube.com/watch?v=WGWsH_CD2D0
+  https://www.youtube.com/watch?v=yFBvC_zRiek
+  https://www.youtube.com/watch?v=-uMxhDbTg2I - coca cola helicopter
   
