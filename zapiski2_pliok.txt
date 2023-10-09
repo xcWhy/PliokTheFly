@@ -1,0 +1,20 @@
+Helicopter bot
+~~~~~~~~~~~~~~~
+
+1. Parts
+
+  - make the connection with a controller via idk (will test it through simple motots)
+  - 
+  
+  
+  Prouchvane
+  ~~~~~~~~~~~
+  
+  kakvo drugo e napraveno, kak
+  po kakyv nachin bihme mogli da go postignem
+  da go napravq po-podrobno - cherterjite / kak da izgeljda 
+  da vidq kak da go upravlqvam 
+  
+  resources:
+  https://www.youtube.com/watch?v=p2c6Z8aj2U8
+  
