@@ -17,3 +17,16 @@ za 12.10
   https://www.youtube.com/watch?v=yFBvC_zRiek
   https://www.youtube.com/watch?v=-uMxhDbTg2I - coca cola helicopter
   
+
+  ZA UPRAVLENIE:
+
+Module za signal:
+https://howtomechatronics.com/tutorials/arduino/arduino-wireless-communication-nrf24l01-tutorial/ - edna chast, koqto moje da raboti s arduino (ot drona na Boqn)
+
+Motori:
+
+
+Good begginer video:
+https://www.youtube.com/watch?v=j61Q3e8AFR4
+
+ESC for RC helicopter?
