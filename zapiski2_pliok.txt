@@ -34,3 +34,10 @@ ESC for RC helicopter?
 ideq B:
 
 https://ardupilot.org/copter/docs/singlecopter-and-coaxcopter.html
+
+mqsto za porychavne na perki i motori:
+
+*https://www.aliexpress.com/w/wholesale-dron-brushless-motor-kit.html?spm=a2g0o.productlist.search.0
+* https://www.aliexpress.com/w/wholesale-dron-brushless-motor-with-driver.html?spm=a2g0o.detail.search.0
+* https://www.aliexpress.com/item/1005005058370390.html?spm=a2g0o.detail.0.0.6977SrrdSrrd9C&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=e79d0019-9f17-492b-b0c4-f393dd662e17&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:e79d0019-9f17-492b-b0c4-f393dd662e17,tpp_buckets:668%232846%238113%231998&pdp_npi=4%40dis%21BGN%21101.13%2122.9%21%21%21391.68%21%21%402101c67a16976948058828338e5d2e%2112000032216296849%21rec%21BG%21%21AB
+* https://www.aliexpress.com/item/1005005293822107.html?spm=a2g0o.productlist.main.1.2d417ef5CiJNI1&algo_pvid=1966963c-fdcd-41ee-9f06-86b9e21d52e2&algo_exp_id=1966963c-fdcd-41ee-9f06-86b9e21d52e2-0&pdp_npi=4%40dis%21BGN%2180.73%2116.37%21%21%21312.67%21%21%402103247916976947423828139e50b2%2112000032555846039%21sea%21BG%210%21AB&curPageLogUid=1a1HUJQJpoi4
