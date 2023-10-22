@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=j61Q3e8AFR4
 
 ESC for RC helicopter?
 
-ideq B:
+ideq B: (SINGLECOPTER)
 
 https://ardupilot.org/copter/docs/singlecopter-and-coaxcopter.html
 
