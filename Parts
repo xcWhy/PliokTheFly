@@ -1,1 +1,13 @@
-Parts for Pliok
+Parts for Pliok:
+
+1. SingleCopter parts:
+
+- Arduino Mini / Uno (Uno moje da e tejko)
+- NRF24L01 Receiver
+- Servos x 4 za balans
+- Brushless Motor x 1 (ili 2 zavisi kolko perki shte trqbvat)
+- ESC za motora
+- Battery 
+
+
+2. Remote Controller
