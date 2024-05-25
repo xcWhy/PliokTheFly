@@ -1,0 +1,49 @@
+// SimpleRx - the slave or the receiver
+
+#include <SPI.h>
+#include <nRF24L01.h>
+#include <RF24.h>
+#include <Servo.h>
+
+#define CE_PIN   9
+#define CSN_PIN 10
+
+const byte thisSlaveAddress[5] = {'R','x','A','A','A'};
+
+RF24 radio(CE_PIN, CSN_PIN);
+
+Servo myServo;
+
+//===========
+
+void setup() {
+
+    //myServo.attach(5); - for a servo
+    myServo.attach(5, 1000, 2000);
+
+    Serial.begin(9600);
+
+    Serial.println("Receiver Starting");
+    radio.begin();
+    radio.setDataRate( RF24_250KBPS );
+    radio.openReadingPipe(1, thisSlaveAddress);
+    radio.startListening();
+}
+
+//=============
+
+void loop() {
+    getData();
+}
+
+//==============
+
+void getData() {
+    if ( radio.available() ) {
+        while (radio.available()){
+          int angleV = 0;
+          radio.read(&angleV, sizeof(angleV));
+          myServo.write(angleV);
+        }
+    }
+}
